@@ -1,4 +1,4 @@
-# Part 2 : Truth to be told
+# Truth to be told
 
 - In this problem, we are using naive baye's rule to classify whether the user generated reviwe is deceptive or truthful.
 - The classifier dunction takes two arguments(train data and test data which are both dictionaries)
